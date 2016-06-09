@@ -1,0 +1,26 @@
+{
+    "name": "yuan",
+    "version": "0.2.0",
+    "scripts": {
+        "test": "node ./scripts/test.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "coffee-script": "^1.9.3"
+    },
+    "description": "Collection of syntax sugar for ECMAScript.",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "author": {
+        "name": "YounGoat <youngoat@163.com>"
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "files": [
+        "lib/",
+        "scripts/",
+        "index.js",
+        "README.txt"
+    ]
+}
