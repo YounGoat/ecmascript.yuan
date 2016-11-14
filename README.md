@@ -1,3 +1,5 @@
+See [CHANGE LOG](./CHANGELOG.md) for notable changes.
+
 ##	Why Named "YUAN"?
 Yuan（缘，原） is the nickname of a lovely girl.
 
