@@ -1,32 +1,32 @@
 {
-	"name": "yuan",
-	"version": "0.2.1",
-	"scripts": {
-		"test": "node ./scripts/test.js"
-	},
-	"dependencies": {},
-	"devDependencies": {
-		"coffee-script": "^1.9.3"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/YounGoat/ecmascript.yuan.git"
-	},
-	"description": "Collection of syntax sugar for ECMAScript.",
-	"main": "index.js",
-	"directories": {
-		"test": "test"
-	},
-	"author": {
-		"name": "Triver YounGoat",
-		"email": "youngoat@163.com",
-		"url": "http://youngoat.github.io/"
-	},
-	"license": "SEE LICENSE IN LICENSE.txt",
-	"files": [
-		"lib/",
-		"scripts/",
-		"index.js",
-		"README.txt"
-	]
+    "name": "yuan",
+    "version": "0.2.3",
+    "scripts": {
+        "test": "node ./scripts/test.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "coffee-script": "^1.9.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/ecmascript.yuan.git"
+    },
+    "description": "Collection of syntax sugar for ECMAScript.",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "author": {
+        "name": "Triver YounGoat",
+        "email": "youngoat@163.com",
+        "url": "http://youngoat.github.io/"
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "files": [
+        "lib/",
+        "scripts/",
+        "index.js",
+        "README.txt"
+    ]
 }
